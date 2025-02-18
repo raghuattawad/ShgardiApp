@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ShgardiApp
+
+  Created by Raghavendra Dattawad on 18/02/25.
+  
+*/
+"SEARCH_PLACEHOLDER" = "Search for people...";
+"NAVIGATION_TITLE" = "Popular People";
+"NO_RESULTS_ALERT_TITLE" = "No Results";
+"NO_RESULTS_ALERT_MESSAGE" = "No people found matching your search.";
+"ALERT_OK_BUTTON" = "OK";
